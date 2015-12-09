@@ -72,6 +72,21 @@ void loop() {
   chase();
 }
 
+void chaseHotPink() {
+  chasePersist(strip.numPixels(), hot_pink);
+  delay(DISPLAY_DELAY/2);
+}
+
+void chaseYellowOrange() {
+  chasePersist(strip.numPixels(), yellowOrange);
+  delay(DISPLAY_DELAY/2);
+}
+
+void chaseTurquoise() {
+  chasePersist(strip.numPixels(), turquoise);
+  delay(DISPLAY_DELAY/2);
+}
+
 static void chase() {
   for(uint16_t i=0; i<strip.numPixels()+4; i++) {
       strip.setPixelColor(i  , blue); // Draw new pixel
@@ -88,19 +103,4 @@ static void chasePersist(int numPixels, uint32_t c) {
     strip.setBrightness(brightness); strip.show(); // This sends the updated pixel color to the hardware.
     delay(delayVal); // Delay for a period of time (in milliseconds).
   } 
-}
-
-void chaseHotPink() {
-  chasePersist(strip.numPixels(), hot_pink);
-  delay(DISPLAY_DELAY/2);
-}
-
-void chaseYellowOrange() {
-  chasePersist(strip.numPixels(), yellowOrange);
-  delay(DISPLAY_DELAY/2);
-}
-
-void chaseTurquoise() {
-  chasePersist(strip.numPixels(), turquoise);
-  delay(DISPLAY_DELAY/2);
 }
