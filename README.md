@@ -81,7 +81,10 @@ activate the bootloader before clicking the Upload button.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Gemma v.2  | https://www.adafruit.com/products/1222  | 1  | $9.95 | The microcontroller. For this version we used Adafruit's version of the Gemma |
 | Micro Lipo Charger| https://www.adafruit.com/products/1304  | 1  | $5.95 | This is for recharging your LithiumIon battery. |
-| Sewing needle | https://www.adafruit.com/products/615 | 1 | $1.95 | You really only need one needle, but they're usually sold in packs. Needles with eyes  works well with the conductive thread. |
+| Sewing needle | https://www.adafruit.com/products/615 | 1 | $1.95 | You really only need one needle, but they're usually sold in packs. Needles with eye sizes between 3 and 6 work well with the conductive thread. |
 | Conductive thread | https://www.adafruit.com/products/640 | 1 | $5.95 | 2-ply thread that connects all of the components. |
-| Smart Neopixels | https://www.adafruit.com/products/1559 | 4 | | For this project, each person used 3 Neopixels |
-| 
+| Smart Neopixels | https://www.adafruit.com/products/1260 | 4 | $7.95 | For this project, each person used 3 Neopixels |
+| Sewable Snaps | https://www.adafruit.com/products/1126 | 6 | $3.95 | Optional. This is only necessary if you want to be able to remove your Gemma from your project. |
+| Velcro | http://preview.tinyurl.com/he9psrd | 1 | $3.78 | Optional. This is to stick to your battery, and to your project, so you can hold the battery in place while you're wearing it, but easily remove it for washing. |
+| Lithium Ion Polymer Battery | https://www.adafruit.com/products/1578 | 1 | $7.95 | The 3.7v 500mAh one will keep 3 LEDs lit for about 5 hours. You could also use this 3.7v 100mAh battery which should also last quite a while: https://www.adafruit.com/products/1570 |
+| USB Micro-B Cable | https://www.sparkfun.com/products/13244 | 1 | $1.95 | This is used to connect your Gemma to your computer in order to upload the code. |
