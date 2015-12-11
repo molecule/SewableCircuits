@@ -25,7 +25,9 @@ a. Go through "Getting Started" at codebender.cc. You will have to register at t
 
 b. Create a new profile and just go through each of the steps. It will download and install the drivers.
 
-c. When it asks you for the board, select the Adafruit Gemma 8MHz made by Adafruit. 
+c. When it asks you for the board, select the Adafruit Gemma 8MHz made by Adafruit. It will 
+automatically select the correct programmer, which is USBTinyISP.
+
 <img style="float: center;" src="http://i.imgur.com/S5buZln.png">
 
 d. You can go all the way to the end of the "Getting Started" sequence, and load “blink” 
@@ -34,7 +36,7 @@ onto your Gemma as a test, or you can stop after the drivers have downloaded.
 ### 2. Follow these instructions to download and install the IDE:
 a. The last step you need to do on this list is adding the "Contributed boards" in the "Board Manager."
 
-https://learn.adafruit.com/adafruit­arduino­ide­setup/arduino­1­dot­6­x­ide
+https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide
 
 b. NOTE: You don't need to download the drivers, or do the "Easy Installation." 
 Once you've added the "Contributed boards" you are finished with this step.
@@ -74,6 +76,12 @@ activate the bootloader before clicking the Upload button.
 <img style="float: center;" src="http://i.imgur.com/L84yl3p.gif">
 
 
-
-
-<img style="float: center;" src="http://i.imgur.com/ZUYhnt7.png">
+## Bill of Materials
+| Component | Link | Quantity  | Cost | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Gemma v.2  | https://www.adafruit.com/products/1222  | 1  | $9.95 | The microcontroller. For this version we used Adafruit's version of the Gemma |
+| Micro Lipo Charger| https://www.adafruit.com/products/1304  | 1  | $5.95 | This is for recharging your LithiumIon battery. |
+| Sewing needle | https://www.adafruit.com/products/615 | 1 | $1.95 | You really only need one needle, but they're usually sold in packs. Needles with eyes  works well with the conductive thread. |
+| Conductive thread | https://www.adafruit.com/products/640 | 1 | $5.95 | 2-ply thread that connects all of the components. |
+| Smart Neopixels | https://www.adafruit.com/products/1559 | 4 | | For this project, each person used 3 Neopixels |
+| 
