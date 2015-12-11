@@ -26,12 +26,12 @@ a. Go through "Getting Started" at codebender.cc. You will have to register at t
 b. Create a new profile and just go through each of the steps. It will download and install the drivers.
 
 c. When it asks you for the board, select the Adafruit Gemma 8MHz made by Adafruit. It will 
-automatically select the correct programmer, which is USBTinyISP.
+automatically select the correct programmer, which is USBTinyISP. NOTE: You can stop after the drivers
+have installed, OR you can go all the way to the end of the "Getting Started" sequence, and load 
+“blink” onto your Gemma as a test. Don't forget to put your Gemma into "Bootloader" mode by pressing
+the "reset" button on the board.
 
 <img style="float: center;" src="http://i.imgur.com/S5buZln.png">
-
-d. You can go all the way to the end of the "Getting Started" sequence, and load “blink” 
-onto your Gemma as a test, or you can stop after the drivers have downloaded.
 
 ### 2. Follow these instructions to download and install the IDE:
 a. The last step you need to do on this list is adding the "Contributed boards" in the "Board Manager."
