@@ -2,6 +2,9 @@
 
 Here are some helpful instructions for working with your new sewn circuit!
 
+## Powerpoint introduction to Sewable Circuits:
+https://docs.google.com/presentation/d/14p3HbcLUWE8E2FS8ceg57LK_pjIwFioKY8-eXRUtqXw/edit?usp=sharing
+
 ## Interesting links
 Here is Adafruit's Uberguide to the awesome Neopixel LEDs:
 
