@@ -1,26 +1,7 @@
 # SewableCircuits
 
 Here are some helpful instructions for working with your new sewn circuit!
-
-## Powerpoint introduction to Sewable Circuits:
-https://docs.google.com/presentation/d/14p3HbcLUWE8E2FS8ceg57LK_pjIwFioKY8-eXRUtqXw/edit?usp=sharing
-
-## Interesting links
-Here is Adafruit's Uberguide to the awesome Neopixel LEDs:
-
-https://learn.adafruit.com/adafruit-neopixel-uberguide/overview
-
-Here is more information about Gemma, the microcontroller we used:
-
-https://learn.adafruit.com/introducing-gemma
-
-My favorite Neopixel program ever (works on the Gemma!):
-
-https://github.com/molecule/neopixelplasma
-
-Some more Arduino projects (there are literally millions of tutorials out there!):
-
-http://www.instructables.com/id/20-Unbelievable-Arduino-Projects/
+* [Powerpoint introduction to Sewable Circuits](https://docs.google.com/presentation/d/14p3HbcLUWE8E2FS8ceg57LK_pjIwFioKY8-eXRUtqXw/edit?usp=sharing)
 
 ## Set up your computer to work with the Gemma boards
 ### 1. The first step is to download and install the drivers.
@@ -77,6 +58,15 @@ That means the bootloader wasn't active. Make sure to press the button on the Ge
 activate the bootloader before clicking the Upload button.
 
 <img style="float: center;" src="http://i.imgur.com/L84yl3p.gif">
+
+## Interesting links
+Here is [Adafruit's Uberguide to the awesome Neopixel LEDs](https://learn.adafruit.com/adafruit-neopixel-uberguide/overview):
+
+Here is more information about [Adafruit's Gemma](https://learn.adafruit.com/introducing-gemma), the microcontroller we used.
+
+My [favorite Neopixel program ever](https://github.com/molecule/neopixelplasma) (works on the Gemma!):
+
+Some [more Arduino projects](http://www.instructables.com/id/20-Unbelievable-Arduino-Projects/) (there are literally millions of tutorials out there!):
 
 
 ## Bill of Materials
