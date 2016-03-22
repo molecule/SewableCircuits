@@ -26,7 +26,7 @@ b. NOTE: You don't need to download the drivers, or do the "Easy Installation."
 Once you've added the "Contributed boards" you are finished with this step.
 
 ### 3. You also need to install the Adafruit Neopixel library. Follow instructions here:
-https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library
+https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
 
 
 ## Upload code to your Adafruit Gemma
