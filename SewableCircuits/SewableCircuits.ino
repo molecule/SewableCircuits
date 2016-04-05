@@ -60,6 +60,7 @@ void setup() {
 
   // Neopixel setup
   strip.begin();
+  strip.setBrightness(brightness);
   strip.show(); // Initialize all pixels to 'off'
 
 }
@@ -91,7 +92,7 @@ static void chase() {
   for(uint16_t i=0; i<strip.numPixels()+4; i++) {
       strip.setPixelColor(i  , blue); // Draw new pixel
       strip.setPixelColor(i-1, 0); // Erase pixel a few steps back
-      strip.setBrightness(brightness); strip.show();
+      strip.show();
       delay(delayVal);
   }
 }
@@ -100,7 +101,7 @@ static void chasePersist(int numPixels, uint32_t c) {
  for(int i=0;i<numPixels;i++) {
     // pixels.Color takes RGB values, from 0,0,0 up to 255,255,255
     strip.setPixelColor(i, c); // Moderately bright green color.
-    strip.setBrightness(brightness); strip.show(); // This sends the updated pixel color to the hardware.
+    strip.show(); // This sends the updated pixel color to the hardware.
     delay(delayVal); // Delay for a period of time (in milliseconds).
   } 
 }

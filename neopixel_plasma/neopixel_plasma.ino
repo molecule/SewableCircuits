@@ -40,6 +40,7 @@ float colorStretch = 0.11;    // Higher numbers will produce tighter color bands
 
 void setup() {
   strip.begin();
+  strip.setBrightness(75);
   strip.show(); // Initialize all pixels to 'off'
 }
 
@@ -96,7 +97,6 @@ void loop() {
       //strip.setPixelColor(col + (8 * row), strip.Color(color_1/4, color_2, color_3*5));
     }
   }
-  strip.setBrightness(75);
   strip.show();
 }
 
