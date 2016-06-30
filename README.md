@@ -17,12 +17,18 @@ the "reset" button on the board.
 
 <img style="float: center;" src="http://i.imgur.com/S5buZln.png">
 
-### 2. Follow these instructions to download and install the IDE:
-a. The last step you need to do on this list is adding the "Contributed boards" in the "Board Manager."
+### 2. Follow these instructions to download and install the Integrated Development Environment (IDE). 
+
+An "IDE" is basically a fancy text editor that you will use to make changes to the code. Similar to how Microsoft Word is a place to type letters, essays, etc, in your IDE you'll type code!
+
+a. First you'll download and install the Arduino IDE from this link. You may need to select "YES" if it asks you to make changes to the computer.:
+[Arduino IDE download](https://www.arduino.cc/en/Main/Software)
+
+b. Once you've installed the IDE, continue with the instructions under "Super Easy Installation" at the next link. The last step you need to do on this list is adding the "Contributed boards" in the "Board Manager." 
 
 https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide
 
-b. NOTE: You don't need to download the drivers, or do the "Easy Installation." 
+c. NOTE: You don't need to download the drivers, or do the "Easy Installation." 
 Once you've added the "Contributed boards" you are finished with this step.
 
 ### 3. You also need to install the Adafruit Neopixel library. Follow instructions here:
