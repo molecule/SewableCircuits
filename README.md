@@ -5,9 +5,7 @@ Here are some helpful instructions for working with your new sewn circuit!
 
 ## Set up your computer to work with the Gemma boards
 ### 1. The first step is to download and install the drivers.
-a. Go through "Getting Started" at codebender.cc. You will have to register at the site.
-
-b. Create a new profile and just go through each of the steps. It will download and install the drivers.
+a. Go to [codebender.cc](Codebender.cc). Register a new account. Create a new profile and just go through each of the steps. It will download and install the drivers.
 
 c. When it asks you for the board, select the Adafruit Gemma 8MHz made by Adafruit. It will 
 automatically select the correct programmer, which is USBTinyISP. NOTE: You can stop after the drivers
