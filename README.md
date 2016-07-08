@@ -1,4 +1,5 @@
-Email me directly for help or feedback! molecule@berkeley.edu
+Email me directly for help or feedback! molecule [at] berkeley [dot] edu
+Or find me on Twitter: [at] fakepaperclips
 
 # SewableCircuits
 
