@@ -1,6 +1,8 @@
+Email me directly for help or feedback! molecule@berkeley.edu
+
 # SewableCircuits
 
-Here are some helpful instructions for working with your new sewn circuit!
+Here are some helpful instructions for working with sewn circuits!
 * [Powerpoint introduction to Sewable Circuits](https://docs.google.com/presentation/d/14p3HbcLUWE8E2FS8ceg57LK_pjIwFioKY8-eXRUtqXw/edit?usp=sharing)
 
 ## Set up your computer to work with the Gemma boards
