@@ -3,11 +3,18 @@
 ##Overview
 There are many ways to have a successful Sewable Circuits workshop. These are some tips and tricks I learned from running mine - feel free to take what works for you and ignore the rest!
 
-There are kind of two sections to the workshop:
+There are two sections to the workshop:
+
 1. Sewing / Introduction to Circuits
 2. Programming
 
-It's very difficult to do them both in one workshop, so I recommend splitting them up.
+It's very difficult to do them both in one workshop, so I recommend splitting them up. You need about 90 minutes for each section.
+
+##Supplies
+1. Scissors (for cutting thread)
+2. Alligator clips
+3. Embroidery hoops
+4. Example of completed project.
 
 ##Confirm in advance
 1. Big monitor to display slides (ask if it's compatible with your system, and arrive early to test)
